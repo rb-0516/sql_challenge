@@ -4,7 +4,7 @@ For this challenge, our task was to design tables to hold CSV files, import the 
 
 ---
 
-## Detaila
+## Details
 
 **Part 1: ERD**
 
