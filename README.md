@@ -6,15 +6,15 @@ For this challenge, our task was to design tables to hold CSV files, import the 
 
 ## Detaila
 
-Part 1: ERD
+**Part 1: ERD**
 
 In the PNG file you will find a a sketch of an Entity Relationship Diagram (ERD). This was created using QuickDBD.
 
-Part 2: Data Engineering
+**Part 2: Data Engineering**
 
-In the table_schemata.sql file you will find the creation of the table schemma used for this task.
+In the table_schemata.sql file you will find the creation of the table schema used for this task.
 
-Part 3: Data Analysis
+**Part 3: Data Analysis**
 
 In the queries.sql file you will find the various queries used in the task to respond to designated questions.
 
